@@ -1,0 +1,29 @@
+/* Import Google fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Sacramento&display=swap');
+
+/* Update headers */
+
+h2 {
+  font-family: "Sacramento";
+  font-size: 40px;
+  color: purple;
+}
+
+h3 {
+  font-family: "Creepster";
+  font-size: 25px;
+  color: magenta;
+}
+
+body {
+  font-family: "Sacramento";
+  font-size: 18px;
+  color: teal;
+  background-color: yellow;
+}
+
+
+
+
+
